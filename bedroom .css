@@ -1,0 +1,35 @@
+body{
+background-position: center;
+background-size: cover;
+}
+.heading
+{
+font-size: larger;
+width: 100%;
+margin: 0px;
+}
+
+.heading:hover{
+font-size:large;
+}
+
+.link{
+background-color: black;
+width: 80px; 
+border-radius:10px;
+float:right;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+background-size: cover;
+background-position: center;
+}
+canvas{
+    box-shadow: 7px 7px 7px grey;
+border-radius: 10px;
+}
